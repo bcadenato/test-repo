@@ -2,7 +2,7 @@
 title: "An R Markdown file for testing"
 author: "Borja Cadenato"
 date: "26/11/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
